@@ -1,7 +1,11 @@
 #### <a name="top"></a> This repo is a clone of an individual project part of [Trybe](https://www.betrybe.com/) junior web developer course.
 ##### https://www.betrybe.com/ (in Portuguese)
 
-# TrybeWallet ![!project status](https://img.shields.io/badge/status-development-yellow)   ![!react](https://img.shields.io/badge/deps-react-purple) ![!redux](https://img.shields.io/badge/deps-redux-green) ![!Node](https://img.shields.io/badge/deps-node.js-yellow)
+# TrybeWallet
+![!project status](https://img.shields.io/badge/status-development-yellow?style=flat&logo=visual-studio-code)   
+![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react)
+![!redux](https://img.shields.io/badge/redux-blue?style=flat&logo=redux)
+![!Node](https://img.shields.io/badge/node.js-yellowgreen?style=flat&logo=javascript)
 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
