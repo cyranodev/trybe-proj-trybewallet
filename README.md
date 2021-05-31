@@ -5,7 +5,7 @@
 ![!project status](https://img.shields.io/badge/status-development-yellow?style=flat&logo=visual-studio-code)   
 ![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react)
 ![!redux](https://img.shields.io/badge/redux-blue?style=flat&logo=redux)
-![!Node](https://img.shields.io/badge/node.js-yellowgreen?style=flat&logo=javascript)
+![!Node](https://img.shields.io/badge/node.js-darkgreen?style=flat&logo=node-dot-js)
 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
